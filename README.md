@@ -14,14 +14,6 @@ TECH STACK
 Language: Python 3
 Library: qrcode
 
-INSTALLATION
-
-Clone the repository
-git clone https://github.com/your-username/url-to-qrcode.git
-cd url-to-qrcode
-Install dependencies
-pip install qrcode[pil]
-
 
 USAGE
 Run the script:
